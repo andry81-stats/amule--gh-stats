@@ -1,0 +1,16 @@
+{
+  "timestamp" : "2022-02-06T18:40:27Z",
+  "count_outdated" : ,
+  "uniques_outdated" : ,
+  "count" : 1,
+  "uniques" : 1,
+  "views" : [
+    {
+      "timestamp": "2022-02-06T00:00:00Z",
+      "count": 1,
+      "count_minmax": [ 1, 1 ],
+      "uniques": 1,
+      "uniques_minmax": [ 1, 1 ]
+    }
+  ]
+}
